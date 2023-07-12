@@ -21,7 +21,9 @@ File/Folder Manager is a desktop application that allows users to efficiently ma
 2. Import the project into your preferred Java IDE.
 3. Build the project using Java SE 11 or later.
 
-# Screenshots
+## Screenshots
+![folder-manager](https://github.com/bharathajayarathna/folder-manager-app/assets/128476693/204cc7bf-2199-4305-bc5e-bd5cc052ca00)
+
 
 ## Usage
 
